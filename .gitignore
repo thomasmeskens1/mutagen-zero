@@ -1,0 +1,6 @@
+# Este repositorio versiona apenas o GDD (/docs/). Tooling de IA (Claude Code,
+# Ruflo/claude-flow, configuracao de agente e de sessao) fica de fora por padrao,
+# em vez de listar cada pasta individualmente.
+/*
+!/docs/
+!/.gitignore
